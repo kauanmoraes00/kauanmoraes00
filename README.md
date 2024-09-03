@@ -1,4 +1,4 @@
-# # # Boas vindas ao meu perfil :blue_heart
+# # #  Boas vindas ao meu perfil :blue_heart
 Meu nome é Kauan Guilherme
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
