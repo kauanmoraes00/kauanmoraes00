@@ -4,6 +4,7 @@ Meu nome é Kauan Guilherme
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
+- moraes.kauan.santos@escola.pr.gov.br
 <!--
 **kauanmoraes00/kauanmoraes00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
