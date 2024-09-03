@@ -1,5 +1,9 @@
-### Boas vindas ao meu perfil :blue_heart
-
+# # # Boas vindas ao meu perfil :blue_heart
+Meu nome é Kauan Guilherme
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e
+compartilhamento dos meus projetos desenvolvidos
 <!--
 **kauanmoraes00/kauanmoraes00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
